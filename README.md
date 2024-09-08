@@ -1,3 +1,4 @@
 # Vercel & Netlify
-- vercel:
-- Netlify: [https://friendly-profiterole-564e96.netlify.app/page/product]
+- vercel: ['https://demo-one-phi-tan.vercel.app']
+- Netlify: [https://friendly-profiterole-564e96.netlify.app]
+- 
